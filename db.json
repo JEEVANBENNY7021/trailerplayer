@@ -1,0 +1,151 @@
+{
+  "allVideos": [
+    {
+      "caption": "Singham Again | Official Trailer",
+      "url": "https://i.ytimg.com/vi/MD7v0-igVIM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDqKw87wEXGkROIrcH7hxnq_zhxCA",
+      "embedLink": "https://www.youtube.com/embed/MD7v0-igVIM?si=lsWJsLB3lzTGBz1J",
+      "description": " A Rohit Shetty Cop Universe | In Cinemas 1st Nov",
+      "id": 1
+    },
+    {
+      "caption": "Kanguva - Tamil Trailer ",
+      "url": "https://i.ytimg.com/vi/bdQF3fwv5mw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAMJWaK2l3ltymC7B5-7mklGBQ1wQ",
+      "embedLink": "https://www.youtube.com/embed/bdQF3fwv5mw?si=tAgUM7zW2lpiRAV9",
+      "description": "Suriya | Bobby Deol | Devi Sri Prasad | Siva | Studio Green",
+      "id": 2
+    },
+    {
+      "caption": "JIGRA Official trailer",
+      "url": "https://i.ytimg.com/vi/qc5nb37L3dA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBAMRVt34tm9G1twZkCY_1wLcNH0w",
+      "embedLink": "https://www.youtube.com/embed/qc5nb37L3dA?si=-QJJj98lIR1OCLIs",
+      "description": "Alia Bhatt | Vedang | jigra trailer, jigra movie trailer",
+      "id": 3
+    },
+    {
+      "caption": "DEVARA Hindi trailer",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNwj0jlvEXY4atka29XNVD_4UJpzTPsXs-tQ&s",
+      "embedLink": "https://www.youtube.com/embed/H0kOUQrYY40?si=CHQa_EewORgMoaLC",
+      "description": "Jr Ntr, Saif Ali Khan, Janhvi kapoor, Devara trailer",
+      "id": 4
+    },
+    {
+      "caption": "Vettaiyan The Hunter (Hindi)- Trailer",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbmiziYrFuYVm0T1sEph1WoUSJ2i_gKjxRvQ&s",
+      "embedLink": "https://www.youtube.com/embed/NQXE3iJCWNI?si=QZAyfKeWVlnHS9Io",
+      "description": "Rajinikanth | Amitabh Bachchan | T.J. Gnanavel | Anirudh",
+      "id": 5
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "malayalam",
+      "allVideos": [
+        {
+          "caption": "Singham Again | Official Trailer",
+          "url": "https://i.ytimg.com/vi/MD7v0-igVIM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDqKw87wEXGkROIrcH7hxnq_zhxCA",
+          "embedLink": "https://www.youtube.com/embed/MD7v0-igVIM?si=lsWJsLB3lzTGBz1J",
+          "description": " A Rohit Shetty Cop Universe | In Cinemas 1st Nov",
+          "id": 1
+        },
+        {
+          "caption": "Vettaiyan The Hunter (Hindi)- Trailer",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbmiziYrFuYVm0T1sEph1WoUSJ2i_gKjxRvQ&s",
+          "embedLink": "https://www.youtube.com/embed/NQXE3iJCWNI?si=QZAyfKeWVlnHS9Io",
+          "description": "Rajinikanth | Amitabh Bachchan | T.J. Gnanavel | Anirudh",
+          "id": 5
+        },
+        {
+          "caption": "hbhsjk,",
+          "url": ", mxs",
+          "embedLink": "https://www.youtube.com/embed/xlksknk",
+          "description": " s.s xsx",
+          "id": 6
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "English",
+      "allVideos": [
+        {
+          "caption": "JIGRA Official trailer",
+          "url": "https://i.ytimg.com/vi/qc5nb37L3dA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBAMRVt34tm9G1twZkCY_1wLcNH0w",
+          "embedLink": "https://www.youtube.com/embed/qc5nb37L3dA?si=-QJJj98lIR1OCLIs",
+          "description": "Alia Bhatt | Vedang | jigra trailer, jigra movie trailer",
+          "id": 3
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "Hindi",
+      "allVideos": [
+        {
+          "caption": "DEVARA Hindi trailer",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNwj0jlvEXY4atka29XNVD_4UJpzTPsXs-tQ&s",
+          "embedLink": "https://www.youtube.com/embed/H0kOUQrYY40?si=CHQa_EewORgMoaLC",
+          "description": "Jr Ntr, Saif Ali Khan, Janhvi kapoor, Devara trailer",
+          "id": 4
+        }
+      ],
+      "id": 3
+    },
+    {
+      "categoryName": "Tamil",
+      "allVideos": [
+        {
+          "caption": "Kanguva - Tamil Trailer ",
+          "url": "https://i.ytimg.com/vi/bdQF3fwv5mw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAMJWaK2l3ltymC7B5-7mklGBQ1wQ",
+          "embedLink": "https://www.youtube.com/embed/bdQF3fwv5mw?si=tAgUM7zW2lpiRAV9",
+          "description": "Suriya | Bobby Deol | Devi Sri Prasad | Siva | Studio Green",
+          "id": 2
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "watchHistrory": [
+    {
+      "caption": "Singham Again | Official Trailer",
+      "embedLink": "https://www.youtube.com/embed/MD7v0-igVIM?si=lsWJsLB3lzTGBz1J",
+      "timestamp": "11/10/2024, 09:11:51 PM",
+      "id": 1
+    },
+    {
+      "caption": "Kanguva - Tamil Trailer ",
+      "embedLink": "https://www.youtube.com/embed/bdQF3fwv5mw?si=tAgUM7zW2lpiRAV9",
+      "timestamp": "11/10/2024, 09:11:54 PM",
+      "id": 2
+    },
+    {
+      "caption": "JIGRA Official trailer",
+      "embedLink": "https://www.youtube.com/embed/qc5nb37L3dA?si=-QJJj98lIR1OCLIs",
+      "timestamp": "11/10/2024, 09:11:59 PM",
+      "id": 3
+    },
+    {
+      "caption": "Vettaiyan The Hunter (Hindi)- Trailer",
+      "embedLink": "https://www.youtube.com/embed/NQXE3iJCWNI?si=QZAyfKeWVlnHS9Io",
+      "timestamp": "11/10/2024, 09:12:02 PM",
+      "id": 4
+    },
+    {
+      "caption": "DEVARA Hindi trailer",
+      "embedLink": "https://www.youtube.com/embed/H0kOUQrYY40?si=CHQa_EewORgMoaLC",
+      "timestamp": "11/10/2024, 09:12:03 PM",
+      "id": 5
+    },
+    {
+      "caption": "hbhsjk,",
+      "embedLink": "https://www.youtube.com/embed/xlksknk",
+      "timestamp": "11/11/2024, 08:21:33 AM",
+      "id": 6
+    },
+    {
+      "caption": "Kanguva - Tamil Trailer ",
+      "embedLink": "https://www.youtube.com/embed/bdQF3fwv5mw?si=tAgUM7zW2lpiRAV9",
+      "timestamp": "11/11/2024, 09:05:32 AM",
+      "id": 7
+    }
+  ]
+}
